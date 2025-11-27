@@ -12,7 +12,7 @@
   </picture>
 </div>
 
-# <nome-do-repositório>
+# Community
 
 [Versão em Português](/README.md)
 
@@ -44,11 +44,11 @@ Make sure to read these files carefully before contributing. If you have any dif
 
 ## ❤️ Contributors
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=cumbucadev/comunidade)](https://github.com/cumbucadev/comunidade/graphs/contributors)
 
 _Made with [contrib.rocks](https://contrib.rocks)._
 
 [github-discussions-doc]: https://docs.github.com/discussions
-[github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
+[github-discussions]: https://github.com/cumbucadev/comunidade/discussions
 [github-issues-doc]: https://docs.github.com/issues/tracking-your-work-with-issues/creating-an-issue
-[github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+[github-issues]: https://github.com/cumbucadev/comunidade/issues
